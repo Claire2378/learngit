@@ -1,4 +1,4 @@
-Edit on dev branch.
+Edit on dev branch secondly.
 Git is a ditributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
